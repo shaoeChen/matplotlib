@@ -1,2 +1,2 @@
 # matplotlib
-單純的對於matplotlib的操作記錄
+matplotlib的操作記錄與簡單說明
